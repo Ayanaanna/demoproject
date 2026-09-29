@@ -1,0 +1,24 @@
+#git commands
+
+"""
+
+for adding user
+==============
+
+git config --global user.name "username"
+git config --global user.email "emailaddress"
+
+# in python folder
+
+--git init
+--git status
+--git add .
+--git commit-m "message"
+--git log
+--git remote add orgin "repository path"
+
+--git push orgin branchname(master/main)
+--git config list
+
+
+"""
